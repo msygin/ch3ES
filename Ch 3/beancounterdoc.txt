@@ -1,0 +1,16 @@
+(Use string[n])
+
+--Bean Counter--
+
+function countBeans (string)
+	loop which counts through string
+	returns the number of capital B's found
+
+2.
+intergrate another function which accepts two params
+1. count b's
+2. which position (nth character).
+
+function countChar (string, num)
+	function finds number in string
+	prints if specific number has B.
